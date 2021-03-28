@@ -1,0 +1,8 @@
+results
+target
+.idea
+.bsp
+.settings
+.classpath
+.project
+*.iml

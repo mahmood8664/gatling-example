@@ -1,0 +1,18 @@
+{
+  "invoiceIdentifier": {
+    "identifier": "${invoice_identifier}",
+    "type": "RIDE"
+  },
+  "settlementTerms": [
+    {
+      "amount": 10,
+      "party": {
+        "identifier": "${to_mobile}",
+        "type": "MOBILE_NUMBER"
+      },
+      "reason": "RIDE_INCOME",
+      "type": "WITHDRAW",
+      "walletIdentifier": "${to_wallet_identifier}"
+    }
+  ]
+}

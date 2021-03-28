@@ -1,0 +1,7 @@
+{
+  "defaultWallet": true,
+  "description": "wallet desc",
+  "iban": "${iban}",
+  "partyId": "${party_id}",
+  "serviceType": "ECO"
+}

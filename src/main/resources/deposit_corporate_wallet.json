@@ -1,0 +1,8 @@
+{
+  "amount": 1,
+  "corporateIdentifier": {
+    "identifier": "corporate-${corporate_id}",
+    "type": "CORPORATE_ID"
+  },
+  "transactionId": "${deposit_transaction_id}"
+}

@@ -1,0 +1,9 @@
+{
+  "amount": 1,
+  "corporateIdentifier": {
+    "identifier": "corporate-${corporate_id}",
+    "type": "CORPORATE_ID"
+  },
+  "settleRequired": true,
+  "transactionId": "${transaction_id}"
+}
